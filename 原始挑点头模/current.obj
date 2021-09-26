@@ -42228,7 +42228,6 @@ vn -0.5149 -0.8486 0.1213
 vn -0.5493 -0.8288 0.1064
 vn -0.1413 -0.9731 0.1816
 vn -0.1471 -0.9636 0.2231
-g FaceBuilderHead_FaceBuilderHead_mesh_kt_facebuilder_material
 usemtl kt_facebuilder_material
 s 1
 f 1/1/1 4462/2/2 12922/3/3 4351/4/4
